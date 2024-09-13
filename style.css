@@ -65,10 +65,10 @@ main{
     width: 80%;
 }
 .conteudo .social div{
-    width: 800px;
-    height: 800px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
-    color: blue;
+    background-color: lightcoral;
 }
 
 .destaque{
