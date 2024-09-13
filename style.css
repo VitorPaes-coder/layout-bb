@@ -23,12 +23,14 @@ header{
     height: 200px;
     display: flex;
     justify-content: space-between;
-    align-items: center
+    align-items: center;
+    background-color: rgb(250 250 250);
+
 }
 .logo{
     height: 80px;
     width: 80px;
-    background-color: lightcoral;
+    background-color: rgb(75 139 182);
 }
 .menu ul{
     display: flex;
@@ -37,7 +39,9 @@ header{
 }
 main{
     flex-grow: 1;
-    display: flex;    
+    display: flex; 
+    background-color: rgb(250 250 250);
+   
 }
 .conteudo{
     width: 50%;
@@ -68,17 +72,21 @@ main{
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: lightcoral;
+    background-color: rgb(75 139 182);
 }
 
 .destaque{
     width: 50%;
-    background-color: darkorange;
+    background-image: url(./img/MB.avif);
+    background-size: 1100px;
+    background-repeat: no-repeat;
 }
+
 footer{
     height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: darkorange;    
+    background-color: rgb(250 250 250);
+    color: rgb(75 139 182);    
 }
