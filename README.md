@@ -16,3 +16,4 @@ Site de um layout de produto para divulgar e colocar em prática os conhecimento
 
 ## Autor
 - [Vitor Paes Rodrigues](https://www.linkedin.com/in/vitor-paes-166b95295/)
+.
